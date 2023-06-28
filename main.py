@@ -111,5 +111,3 @@ if stock_change <= -5 or stock_change >=5:
     )
 
     print(message.sid)
-
-
